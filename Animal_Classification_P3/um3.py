@@ -7,7 +7,7 @@ import numpy as np
 import cv2
 import os
 
-dataset_path = "/Users/sanjaygs/Desktop/Internship_um/Projects/Animal Classification/dataset"  # Replace with your dataset path
+dataset_path = "path"  # Replace with your dataset path
 
 IMG_SIZE = (224, 224)
 BATCH_SIZE = 32
